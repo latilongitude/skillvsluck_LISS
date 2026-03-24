@@ -1,2 +1,2 @@
 # skill-vs-luck (version-24-03-2026)
-Quantifying the balance of luck and skill (R-value) football competitions.
+Quantifying the balance of luck and skill (R-value) across football competitions.
